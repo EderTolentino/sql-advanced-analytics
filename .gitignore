@@ -1,0 +1,12 @@
+# Local study materials
+/study_notes/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vs/
+.vscode/
+
+# Local temporary files
+*.tmp
+*.bak
