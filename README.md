@@ -108,11 +108,11 @@ Local `study_notes/` files are excluded through `.gitignore` and are not part of
 
 ## Credits
 
-Based on SQL analytics learning material by **Data With Baraa**.
+This project was developed as part of my SQL learning journey, following the tutorials and exercises provided by Data With Baraa.
 
-- [SQL analytics video used for this project](https://www.youtube.com/watch?v=2jGhQpbzHes)
+Special thanks to Baraa for sharing practical, accessible learning resources that help aspiring data analysts develop their skills and build their portfolios.
 
-The original course materials and dataset belong to their respective creators. Please confirm the applicable reuse permissions before publicly redistributing the exported dataset.
+**Learning resource:** [SQL Advanced Analytics Tutorial](https://www.youtube.com/watch?v=2jGhQpbzHes)
 
 ## Author
 
